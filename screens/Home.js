@@ -8,10 +8,11 @@ class Home extends React.Component {
   componentWillMount() {}
 
   render() {
-    return;
-    <View>
-      <Text>Test Home</Text>
-    </View>;
+    return (
+      <View>
+        <Text>Test Home</Text>
+      </View>
+    );
   }
 }
 

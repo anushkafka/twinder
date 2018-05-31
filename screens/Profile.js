@@ -8,10 +8,11 @@ class Profile extends React.Component {
   componentWillMount() {}
 
   render() {
-    return;
-    <View>
-      <Text>Test Profile</Text>
-    </View>;
+    return (
+      <View>
+        <Text>Test Profile</Text>
+      </View>
+    );
   }
 }
 

@@ -8,10 +8,11 @@ class Chat extends React.Component {
   componentWillMount() {}
 
   render() {
-    return;
-    <View>
-      <Text>Test Chat</Text>
-    </View>;
+    return (
+      <View>
+        <Text>Test Chat</Text>
+      </View>
+    );
   }
 }
 

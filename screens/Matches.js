@@ -8,10 +8,11 @@ class Matches extends React.Component {
   componentWillMount() {}
 
   render() {
-    return;
-    <View>
-      <Text>Test Matches</Text>
-    </View>;
+    return (
+      <View>
+        <Text>Test Matches</Text>
+      </View>
+    );
   }
 }
 
